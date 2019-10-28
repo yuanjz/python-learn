@@ -1,4 +1,4 @@
-class Fruit():
+class Fruit(object):
     def __init__(self):
         print ("Fruit")
     def run_base(self):
